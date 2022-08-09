@@ -9,4 +9,6 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-i/ignore.py
+node_modules/*
+ui/qtile/config-ui/*
+!ui/qtile/config-ui/qconfig/*
